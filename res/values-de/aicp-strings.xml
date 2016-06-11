@@ -19,7 +19,7 @@
     <string name="appVersion">Versionsinformation</string>
 
     <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
-    <string name="no_perms">Diese App benötigt Berechtigungen.</string>
+    <string name="no_perms">Diese App benötigt keine besonderen Berechtigungen.</string>
 
     <string name="currentVersion">Installierte Version:</string>
     <string name="newVersion">Neue Version:</string>
