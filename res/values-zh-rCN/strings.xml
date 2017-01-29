@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--  Copyright (C) 2007 The Android Open Source Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -126,4 +125,15 @@
     <string name="current_permissions_category" msgid="998210994450606094">"当前权限"</string>
     <string name="message_staging" msgid="6151794817691100003">"正在准备安装应用…"</string>
     <string name="app_name_unknown" msgid="8931522764510159105">"未知"</string>
+	
+
+    <!-- Tab label for version information [CHAR LIMIT=20] -->
+    <string name="appVersion">版本信息</string>
+    <string name="currentVersion">当前版本:</string>
+    <string name="newVersion">新版本:</string>
+    <string name="not_available">不可用</string>
+
+    <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
+    <string name="no_perms">此应用不需要任何特殊权限</string>
+
 </resources>
