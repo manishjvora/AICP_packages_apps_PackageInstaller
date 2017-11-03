@@ -228,5 +228,9 @@
   <string name="app_name_unknown">不明</string>
   <!-- Help URL, application permissions [DO NOT TRANSLATE] -->
   <!-- Tab label for version information [CHAR LIMIT=20] -->
+  <string name="appVersion">版本資訊</string>
+  <string name="currentVersion">目前版本：</string>
+  <string name="newVersion">新版本：</string>
+  <string name="not_available">無可用</string>
   <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
 </resources>
