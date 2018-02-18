@@ -216,7 +216,8 @@
   <!-- Template for the screen title when app permissions are reviewed on install. -->
   <string name="permission_review_title_template_install">Určite, k čomu aplikácii <xliff:g id="app_name" example="Gmail">%1$s</xliff:g> povolíte prístup</string>
   <!-- Template for the screen title when app permissions are reviewed on update. -->
-  <string name="permission_review_title_template_update">Aplikácia <<xliff:g id="app_name" example="Gmail">%1$s</xliff:g> bola aktualizovaná. Určite, k čomu jej povolíte prístup.</string>
+  <string name="permission_review_title_template_update">
+Aplikácia <xliff:g id="app_name" example="Gmail">%1$s</xliff:g> bola aktualizovaná. Určite, k čomu jej povolíte prístup.</string>
   <!-- Title for the dialog button to cancel the detailed permission review. -->
   <string name="review_button_cancel">Zrušiť</string>
   <!-- Title for the dialog button to continue accepting the detailed permission review. -->
