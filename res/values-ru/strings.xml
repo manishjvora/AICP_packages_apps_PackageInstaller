@@ -161,11 +161,6 @@
   <!-- Label for button that leads to more permissions [CHAR LIMIT=40] -->
   <string name="additional_permissions">Дополнительные разрешения</string>
   <!-- Description of how many more permissions to view on next page [CHAR LIMIT=30] -->
-  <plurals name="additional_permissions_more">
-    <item quantity="one">Ещё <xliff:g id="COUNT_1">%1$d</xliff:g></item>
-    <item quantity="few">Ещё <xliff:g id="COUNT_1">%1$d</xliff:g></item>
-    <item quantity="other">Ещё <xliff:g id="COUNT_1">%1$d</xliff:g></item>
-  </plurals>
   <!-- Warning for turning off permissions on older apps -->
   <string name="old_sdk_deny_warning">Это приложение было разработано для более ранней версии Андроид. Отзыв разрешения может вызвать неполадки в работе.</string>
   <!-- The default description of a permission, i.e. what it does.  [CHAR LIMIT=40] -->

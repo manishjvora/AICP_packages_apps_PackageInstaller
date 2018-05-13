@@ -46,13 +46,13 @@
   <string name="install_failed_conflict">Balíček je v konfliktu se stávajícím balíčkem, který má stejný název.</string>
   <!-- Reason displayed when installation fails because the package is incompatible with
        the current tablet (e.g., missing native code for the current ABI, newer SDK, ...) [CHAR LIMIT=100] -->
-  <string name="install_failed_incompatible" product="tablet">Tato aplikace s vaším tabletem není kompatibilní.</string>
+  <string name="install_failed_incompatible" product="tablet">Tato aplikace není kompatibilní s vaším tabletem.</string>
   <!-- Reason displayed when installation fails because the package is incompatible with
        the current TV (e.g., missing native code for the current ABI, newer SDK, ...) [CHAR LIMIT=100] -->
-  <string name="install_failed_incompatible" product="tv">Tato aplikace s vaší televizí není kompatibilní.</string>
+  <string name="install_failed_incompatible" product="tv">Tato aplikace není kompatibilní s vaší TV.</string>
   <!-- Reason displayed when installation fails because the package is incompatible with
        the current phone (e.g., missing native code for the current ABI, newer SDK, ...) [CHAR LIMIT=100] -->
-  <string name="install_failed_incompatible" product="default">Tato aplikace s vaším telefonem není kompatibilní.</string>
+  <string name="install_failed_incompatible" product="default">Tato aplikace není kompatibilní s vaším telefonem.</string>
   <!-- Reason displayed when installation fails because the installation package itself is invalid
         in some way (e.g., corrupt) [CHAR LIMIT=100] -->
   <string name="install_failed_invalid_apk">Zdá se, že je balíček poškozen.</string>
@@ -136,7 +136,7 @@
   <!-- Title for the dialog button to deny a permission grant. -->
   <string name="grant_dialog_button_deny">Odmítnout</string>
   <!-- Title for the dialog button to deny a permission grant despite a warning of implications. -->
-  <string name="grant_dialog_button_deny_anyway">Zamítnout</string>
+  <string name="grant_dialog_button_deny_anyway">Přesto odmítnout</string>
   <!-- Template for the current permission from the total number of permissions. -->
   <string name="current_permission_template"><xliff:g id="CURRENT_PERMISSION_INDEX">%1$s</xliff:g> z <xliff:g id="PERMISSION_COUNT">%2$s</xliff:g></string>
   <!-- Template for the warning message when an app requests a permission. -->
@@ -163,6 +163,7 @@
   <plurals name="additional_permissions_more">
     <item quantity="one">Ještě <xliff:g id="COUNT_0">%1$d</xliff:g></item>
     <item quantity="few">Ještě <xliff:g id="COUNT_1">%1$d</xliff:g></item>
+    <item quantity="many">Ještě <xliff:g id="COUNT_1">%1$d</xliff:g></item>
     <item quantity="other">Ještě <xliff:g id="COUNT_1">%1$d</xliff:g></item>
   </plurals>
   <!-- Warning for turning off permissions on older apps -->

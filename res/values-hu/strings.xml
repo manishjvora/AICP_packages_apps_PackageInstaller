@@ -196,11 +196,11 @@
   <string name="permission_request_title">Engedélykérés</string>
   <!-- Title for the dialog that warns the user they need to turn off screen overlays
          before permissions can be changed. [CHAR LIMIT=NONE] -->
-  <string name="screen_overlay_title">Képernyőfedvény észlelve</string>
+  <string name="screen_overlay_title">Képernyő-fedőréteg észlelve</string>
   <!-- Message for the dialog that warns the user they need to turn off screen overlays
         before permissions can be changed. The "Settings > Apps" conveys to the user to
         go to Settings and click on apps, this may need updates in RTL languages. [CHAR LIMIT=NONE] -->
-  <string name="screen_overlay_message">Ennek az engedélynek a módosításához először ki kell kapcsolnia a képernyőfedvényt a Beállítások &gt; Alkalmazások menüben</string>
+  <string name="screen_overlay_message">Ennek az engedélynek a módosításához először ki kell kapcsolnia a képernyő-fedőréteget a Beállítások \u003e Alkalmazások menüben</string>
   <!-- Button for the dialog that warns the user they need to turn off screen overlays
          before permissions can be changed. [CHAR LIMIT=NONE] -->
   <string name="screen_overlay_button">Beállítások megnyitása</string>
@@ -229,5 +229,10 @@
   <string name="app_name_unknown">Ismeretlen</string>
   <!-- Help URL, application permissions [DO NOT TRANSLATE] -->
   <!-- Tab label for version information [CHAR LIMIT=20] -->
+  <string name="appVersion">Verzióinformáció</string>
+  <string name="currentVersion">Jelenlegi verzió:</string>
+  <string name="newVersion">Új verzió:</string>
+  <string name="not_available">nem érhető el</string>
   <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
+  <string name="no_perms">Ennek az alkalmazásnak nincs szüksége engedélyre.</string>
 </resources>

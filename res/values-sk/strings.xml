@@ -164,6 +164,7 @@
   <plurals name="additional_permissions_more">
     <item quantity="one">Ešte <xliff:g id="count_0">%1$d</xliff:g></item>
     <item quantity="few">Ešte <xliff:g id="count_0">%1$d</xliff:g></item>
+    <item quantity="many">Ešte <xliff:g id="count_0">%1$d</xliff:g></item>
     <item quantity="other">Ešte <xliff:g id="count_0">%1$d</xliff:g></item>
   </plurals>
   <!-- Warning for turning off permissions on older apps -->

@@ -160,11 +160,6 @@
   <!-- Label for button that leads to more permissions [CHAR LIMIT=40] -->
   <string name="additional_permissions">Dodatkowe uprawnienia</string>
   <!-- Description of how many more permissions to view on next page [CHAR LIMIT=30] -->
-  <plurals name="additional_permissions_more">
-    <item quantity="one">Jeszcze <xliff:g id="COUNT_0">%1$d</xliff:g></item>
-    <item quantity="few">Jeszcze <xliff:g id="COUNT_1">%1$d</xliff:g></item>
-    <item quantity="other">Jeszcze <xliff:g id="COUNT_1">%1$d</xliff:g></item>
-  </plurals>
   <!-- Warning for turning off permissions on older apps -->
   <string name="old_sdk_deny_warning">Ta aplikacja jest na straszą wersję Androida. Jeśli odmówisz uprawnień, aplikacja może nie działać prawidłowo.</string>
   <!-- The default description of a permission, i.e. what it does.  [CHAR LIMIT=40] -->
@@ -230,5 +225,10 @@
   <string name="app_name_unknown">Nieznana</string>
   <!-- Help URL, application permissions [DO NOT TRANSLATE] -->
   <!-- Tab label for version information [CHAR LIMIT=20] -->
+  <string name="appVersion">Informacja o wersji</string>
+  <string name="currentVersion">Obecna wersja:</string>
+  <string name="newVersion">Nowa wersja:</string>
+  <string name="not_available">niedostępne</string>
   <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
+  <string name="no_perms">Ta aplikacja nie wymaga żadnych uprawnień.</string>
 </resources>

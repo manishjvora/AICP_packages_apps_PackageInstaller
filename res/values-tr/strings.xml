@@ -229,5 +229,10 @@
   <string name="app_name_unknown">Bilinmiyor</string>
   <!-- Help URL, application permissions [DO NOT TRANSLATE] -->
   <!-- Tab label for version information [CHAR LIMIT=20] -->
+  <string name="appVersion">Sürüm Bilgisi</string>
+  <string name="currentVersion">Yüklü Sürüm:</string>
+  <string name="newVersion">Yeni Sürüm:</string>
+  <string name="not_available">kullanılamaz</string>
   <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
+  <string name="no_perms">Bu uygulama hiçbir izin gerektirmiyor.</string>
 </resources>
