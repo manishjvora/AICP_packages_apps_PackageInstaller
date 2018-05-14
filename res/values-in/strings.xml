@@ -242,7 +242,7 @@ administrator perangkat aktif untuk pengguna <xliff:g id="username">%1$s</xliff:
  <xliff:g id="app_name" example="Gmail">%1$s</xliff:g> untuk mengakses</string>
   <!-- Template for the screen title when app permissions are reviewed on update. -->
   <string name="permission_review_title_template_update">
-        <xliff:g id="app_name"example="Gmail">%1$s</xliff:g> telah diperbarui.
+        <xliff:g id="app_name" example="Gmail">%1$s</xliff:g> telah diperbarui.
         Pilih apa yang memungkinkan aplikasi ini diakses.</string>
   <!-- Title for the dialog button to cancel the detailed permission review. -->
   <string name="review_button_cancel">Membatalkan</string>
